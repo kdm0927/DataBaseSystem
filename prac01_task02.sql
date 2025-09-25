@@ -1,0 +1,1 @@
+SELECT * FROM prac01_task02.users;
